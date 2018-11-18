@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    width: 100%;
+    background: #F5F5F5;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#cats-container {
+    display: flex;
+}
+.cat-name{
+    margin-bottom: 10px;
+}
+#first-cat,
+#second-cat {
+    margin-right: 15px;
+    text-align: center;
+}
+
+.total-clicks {
+    padding: 10px 0;
+}
