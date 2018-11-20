@@ -14,15 +14,7 @@ body {
 #cats-container {
     display: flex;
 }
-.cat-name{
-    margin-bottom: 10px;
-}
-#first-cat,
-#second-cat {
-    margin-right: 15px;
-    text-align: center;
-}
 
-.total-clicks {
-    padding: 10px 0;
+#cat-count {
+    margin-bottom: 10px;
 }
